@@ -1,1 +1,0 @@
-public class Properties { static int amount = 600; }
