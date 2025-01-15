@@ -1,1 +1,0 @@
-public class Prop {static double value = 0;}
